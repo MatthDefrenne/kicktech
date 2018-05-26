@@ -1,0 +1,22 @@
+.navbar-brand {
+    background: #6772e5;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 8px;
+    color: white;
+    font-weight: bold;
+}
+
+.btn {
+    border-radius: 0px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    border-radius: 3px;
+    background: #6772e5;
+    box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08)
+
+}
+

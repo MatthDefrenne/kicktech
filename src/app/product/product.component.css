@@ -1,0 +1,72 @@
+.bloc-top {
+    margin-top: 70px;
+    margin-bottom: 25px;
+}
+
+.bloc-top p {
+    font-weight: lighter;
+}
+.product {
+    width: 665px;   
+}
+img {
+    width: 100%;
+}
+.helpers {
+    font-size: 26px;
+    font-weight: bold;
+}
+.helpers div {
+    font-size: 14px;
+    font-weight: lighter;
+}
+.helpers:last-child {
+    margin-top: 25Px;
+}
+.btn {
+    width: 100%;
+    border-radius: 0Px;
+    background: #6772e5;
+    color: white;
+    margin-top: 25Px;
+    height: 50px;
+    text-transform: uppercase;
+    
+}
+.btn-ask {
+    width: 100%;
+    border-radius: 0Px;
+    background: white;
+    color: purple;
+    margin-top: 25Px;
+    border: inherit;
+    height: 50px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.reduction {
+    font-size: 12px;
+    margin-top: 25Px;
+    
+}
+.reduction h5 {
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.bloc-bottom {
+    margin-top: 50px;
+}
+.bloc-bottom h2 {
+    font-size: 18px;
+}
+.bloc-bottom p {
+    font-size: 15px;
+}
+.popup {
+    background: #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    margin-top: 20px;
+    font-weight: bold;
+}

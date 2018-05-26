@@ -1,0 +1,14 @@
+.bloc-top {
+    margin-top: 70px;
+    margin-bottom: 25px;
+}
+
+.bloc-top p {
+    font-weight: lighter;
+}
+.howItWork {
+    padding: 10px;
+}
+.howItWork h2 {
+    font-size: 20px;
+}

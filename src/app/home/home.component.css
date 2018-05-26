@@ -1,0 +1,55 @@
+.bloc-top {
+    margin-top: 70px;
+    margin-bottom: 25px;
+}
+
+.bloc-top p {
+    font-weight: lighter;
+}
+
+
+.bloc {
+    cursor: pointer;
+    position: relative;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.05), 0 10px 10px rgba(0, 0, 0, 0.03);
+        padding: 0Px;
+}
+.bloc img {
+    width: 100%;
+}
+
+.inside-bloc {
+    padding-left: 15Px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+.bloc .title {
+    font-size: 20px;
+    font-weight: bold;
+}
+.bloc .description {
+    font-size: 14px;
+}
+.info {
+    margin-top: 10px;
+    font-size: 13px;
+}
+.info span:last-child {
+    text-align: right;
+    margin-left: 10px;
+    position: absolute;
+    right: 20px;
+
+}
+.cut-off {
+    font-size: 12Px;
+    background: purple;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    margin: 15Px;
+    padding: 5Px;
+    color: white;
+    font-weight: bold;
+    border-radius: 3px;
+}
